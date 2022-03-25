@@ -1,0 +1,22 @@
+body{
+	background-color:#FFDEDE;
+	font-size: 15px;
+	font-family: courier;
+}
+
+.content{
+	style="width: 700px;margin:30px auto; shape-margin: :round
+}
+
+
+.container {
+	list-style: none;
+	padding-left:0px;
+	background: white;
+	padding: 30px;border-radius: 4px;box-shadow: 0 10px 30px rgba(0,0,0,.1);margin:40px;text-align: center
+}
+.container li{
+	display: inline;
+	padding:10px;
+	text-align: center;
+}
